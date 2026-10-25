@@ -47,7 +47,7 @@ journey status, delay reasons, and refund requests.
 - 31,653 journeys analysed (Jan–Apr 2024).
 - Several routes with lower overall journey counts showed a 100% disruption 
 - rate  worth treating with some caution given smaller sample sizes 
-- Technical Issue delays had the highest refund rate (54.9%), followed by 
+- Technical Issue delays had the highest refund rate (54.9%)
 
 
 
